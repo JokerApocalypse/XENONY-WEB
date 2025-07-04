@@ -1,0 +1,16 @@
+{
+  "name": "Kerm Porn",
+  "version": "1.0.0",
+  "description": "A project with Supabase and Express",
+  "main": "api/server.js",
+  "scripts": {
+    "start": "node api/server.js"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.0.0",
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1"
+  },
+  "author": "",
+  "license": "ISC"
+}
